@@ -1,0 +1,6 @@
+Django==1.11.2
+djangorestframework==3.6.3
+django-cors-headers==2.1.0
+
+# Generate test data
+django-autofixture==0.12.1
