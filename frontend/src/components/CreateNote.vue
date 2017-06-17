@@ -29,8 +29,6 @@ export default {
     submitForm (event) {
       this.createNote()
 
-      console.log(this.body)
-
       this.title = ''
       this.body = ''
 
